@@ -1,5 +1,7 @@
 # Elvanto API Node.js Library
 
+> Version 1.0.2
+
 This library is all set to go with version 1 of the <a href="https://www.elvanto.com/api/" target="_blank">Elvanto API</a>.
 
 ## Installation
@@ -14,10 +16,9 @@ npm install elvanto-api
 
 The Elvanto API supports authentication using either <a href="https://www.elvanto.com/api/getting-started/#oauth" target="_blank">OAuth 2</a> or an <a href="https://www.elvanto.com/api/getting-started/#api_key" target="_blank">API key</a>.
 
-### What is This For?
+### What Is This For?
 
 * This is an API wrapper to use in conjunction with an Elvanto account. This wrapper can be used by developers to develop programs for their own churches, or to design integrations to share to other churches using OAuth authentication.
-* Version 1.0.0
 
 ### Using OAuth 2
 
